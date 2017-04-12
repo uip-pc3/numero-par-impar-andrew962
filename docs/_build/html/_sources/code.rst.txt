@@ -1,0 +1,5 @@
+Auto generacion de Documentacion
+================================
+
+..automodule::numero-par-impar-andrew962
+    :members:

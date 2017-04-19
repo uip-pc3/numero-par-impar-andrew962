@@ -1,26 +1,20 @@
-.. ParImpar documentation master file, created by
-   sphinx-quickstart on Mon Apr 10 22:00:20 2017.
+.. parimpar documentation master file, created by
+   sphinx-quickstart on Wed Apr 19 14:05:47 2017.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to ParImpar's documentation!
+Welcome to parimpar's documentation!
 ====================================
-
-Contents:
-Este es mi proyecto.
 
 .. toctree::
    :maxdepth: 2
-
-tutorial
-project
-code
+   :caption: Contents:
 
 
 
 Indices and tables
 ==================
-:wq
+
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
